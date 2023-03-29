@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800760401417",
+    "project_id": "practicum-semiv",
+    "storage_bucket": "practicum-semiv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800760401417:android:184fdcf2cc99f0a416b2d8",
+        "android_client_info": {
+          "package_name": "com.example.test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800760401417-scidaqu4drgnguakg6ke5b46uid23pj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjLWBK7w5ZwxA8vCLRPEhCfhifhwVhF3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800760401417-scidaqu4drgnguakg6ke5b46uid23pj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
