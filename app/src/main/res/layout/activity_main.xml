@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+
     <EditText
         android:id="@+id/etSearchField"
         android:layout_width="match_parent"
@@ -12,9 +13,10 @@
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:background="@drawable/search_field_bg"
-        android:drawableStart="@drawable/baseline_search_24"
+        android:drawableEnd="@drawable/baseline_search_24"
         android:ems="10"
         android:hint="Search for books"
+        android:textColorHint="#adadad"
         android:inputType="text"
         android:padding="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
